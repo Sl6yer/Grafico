@@ -1,4 +1,4 @@
-# Controle de Gastos
+# Grafico
 
 Este aplicativo permite a visualização de dados por meio de gráficos interativos. Você pode adicionar dados e seus respectivos nomes, que serão exibidos em um gráfico de forma visual. Além disso, o aplicativo oferece a funcionalidade de **resetar** todos os dados, caso seja necessário.
 
