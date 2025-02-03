@@ -1,16 +1,17 @@
-# controle_de_gastos
+# Controle de Gastos
 
-A new Flutter project.
+Este aplicativo permite a visualização de dados por meio de gráficos interativos. Você pode adicionar dados e seus respectivos nomes, que serão exibidos em um gráfico de forma visual. Além disso, o aplicativo oferece a funcionalidade de **resetar** todos os dados, caso seja necessário.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- **Adicionar Dados**: Insira um nome e um valor (número) para adicionar ao gráfico.
+- **Visualização Gráfica**: Os dados inseridos serão exibidos em um gráfico para melhor visualização.
+- **Resetar Dados**: Existe a opção de resetar todos os dados com um simples clique, com confirmação, para evitar exclusões acidentais.
 
-A few resources to get you started if this is your first Flutter project:
+## Como Usar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Abra o aplicativo.
+2. No campo de "Nome", insira um nome para o dado.
+3. No campo "Valor", insira o valor correspondente ao nome.
+4. Clique em **Adicionar** para adicionar o dado ao gráfico.
+5. Para resetar os dados, clique no botão **Reset**. Uma caixa de diálogo de confirmação aparecerá antes de os dados serem apagados.
